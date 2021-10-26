@@ -1,0 +1,39 @@
+.Container{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: left;
+    background: gray;
+    font-weight: bold;
+    
+}
+.formDiv{
+    height: auto;
+    width: 60%;
+    margin: auto;
+    padding: 25px 0;
+}
+input{
+    margin: 10px 0;
+    border: none;
+    border: 1px solid #ccc;
+    padding: 12px 20px;
+    border-radius: 5px;
+    
+}
+.gap{
+    margin-left: 10px;
+}
+.mainDiv{
+    margin: auto;
+}
+.optionItem{
+    border: none;
+    padding: 10px 50px;
+    border-radius: 5px;
+    color: black;
+    margin-bottom: 20px;
+}
+.radioBtn input{
+    padding: 20px;
+}
